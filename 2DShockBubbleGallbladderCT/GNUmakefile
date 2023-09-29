@@ -1,0 +1,13 @@
+PRECISION=DOUBLE
+TINY_PROFILE = FALSE
+
+DEBUG = FALSE
+DIM=2
+USE_MPI = TRUE
+USE_OMP = FALSE
+
+USE_CUDA = FALSE
+COMP = clang
+
+include ./Make.package
+include ../Make.EMM

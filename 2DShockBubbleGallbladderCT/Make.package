@@ -1,0 +1,3 @@
+
+CEXE_headers += emm_prob.H emm_prob_parm.H
+CEXE_sources += emm_prob.cpp
