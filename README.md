@@ -2,7 +2,9 @@
 
 A compressible multiphase solver with focusing on real thermodynamics. Here are some results:
 
-## Results summary
+## Simulation by the code
+
+This is a bubble collapse driven by ultrasound pressure of a lithotripter near a rigid wall. In the left, the liquid temperature variation is seen.
 
 
 
